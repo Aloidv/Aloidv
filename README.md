@@ -9,14 +9,18 @@
 ## **About me**  <picture><img  align="left" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJkbHdzNnpnaG9qZzZvd2p0Y2hoN2Rmdm8yajdsMWx2Y2kxZmNwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVBR6cLvUjV9C/giphy.gif" width = 50px></picture> 
 
 <br>
-
-- ☑️ Self-taught developer for life.
-- ☑️ I am looking for job offers as a developer, [my resume](https://www.artstation.com/aloid).
-- ☑️ Big fan of indie games.
-- ☑️ Currently learning Android Development by Self.
-- ☑️ As a hobby I am learning all the areas of a video game development, I am currently practicing as a 3d artist. → [Portfolio](https://www.artstation.com/aloid)
-
-<br><br>
+☑️ Self-taught developer for life.
+<br>
+☑️ I am looking for job offers as a developer or QA Tester.
+<br>
+☑️ Big fan of indie games.
+<br>
+☑️ Currently learning Android Development by Self.
+<br>
+☑️ As a hobby, I am learning all areas of video game development, and I am currently practicing as a 3D artist. → <a href="https://www.artstation.com/aloid" target="_blank">Portfolio</a>
+<br>
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -36,7 +40,27 @@
 
 <br>   
 
-- **Tech Software**:
+- **QA Testing**:  
+<p align="left">
+<img src="https://img.shields.io/badge/TestRail-%230073CF.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAACdJREFUeAFjYIABWjAWJlYGAkxMDCYGBgYGBgYmFiYWBgaGRgYGBgAAGYADwdfOsiAAAAAElFTkSuQmCC">
+<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/BrowserStack-F6A800.svg?style=for-the-badge&logo=browserstack&logoColor=white">
+</p>
+
+<br>   
+
+- **QA Automation**:  
+<p align="left">
+<img src="https://img.shields.io/badge/Appium-472B85.svg?style=for-the-badge&logo=appium&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Rest%20Assured-009639.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAACdJREFUeAFjYIABWjAWJlYGAkxMDCYGBgYGBgYmFiYWBgaGRgYGBgAAGYADwdfOsiAAAAAElFTkSuQmCC">
+</p>
+
+<br>   
+
+- **Development Environment**:
 
 <p align="left">
 <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
@@ -50,7 +74,7 @@
 
 <br>   
     
-- **Front-End**:
+- **Front Core**:
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -61,10 +85,9 @@
 
 <br>
 
-- **Back-End**:
+- **Database & SQL**:
 <p align="left">
 <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
