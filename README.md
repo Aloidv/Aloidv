@@ -6,7 +6,7 @@
 
 <br>
 
-## **About me**  <picture><img  align="left" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJkbHdzNnpnaG9qZzZvd2p0Y2hoN2Rmdm8yajdsMWx2Y2kxZmNwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVBR6cLvUjV9C/giphy.gif" width = 50px></picture> 
+## **About me**  <picture><img  align="left" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoZDRyZG96cnI5OTgxbm96Y3p4aDZwajYzdHM1bnc2eDNidHJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width = 50px></picture> 
 
 <br>
 ☑️ Self-taught developer.
