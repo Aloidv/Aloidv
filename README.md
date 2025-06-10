@@ -33,29 +33,43 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Blueprints-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
 
 <br>   
 
-- **QA Testing**:  
+- **Java**:
+
 <p align="left">
-<img src="https://img.shields.io/badge/TestRail-%230073CF.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAACdJREFUeAFjYIABWjAWJlYGAkxMDCYGBgYGBgYmFiYWBgaGRgYGBgAAGYADwdfOsiAAAAAElFTkSuQmCC">
-<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/BrowserStack-F6A800.svg?style=for-the-badge&logo=browserstack&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white">
+<img src="https://img.shields.io/badge/MVC-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white">
+  <br>   
+<img src="https://img.shields.io/badge/Spring%20Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Web%20Services-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
 <br>   
 
-- **QA Automation**:  
+- **Microservices**:
+
 <p align="left">
-<img src="https://img.shields.io/badge/Appium-472B85.svg?style=for-the-badge&logo=appium&logoColor=white">
-<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Rest%20Assured-009639.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAACdJREFUeAFjYIABWjAWJlYGAkxMDCYGBgYGBgYmFiYWBgaGRgYGBgAAGYADwdfOsiAAAAAElFTkSuQmCC">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
+<br>  
+
+- **QA Testing**:  
+<p align="left">
+<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-45C9A1.svg?style=for-the-badge&logo=mockito&logoColor=white">
 </p>
 
 <br>   
@@ -67,29 +81,28 @@
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal%20Engine%205-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 </p>
 
 <br>   
-    
+
+- **Database SQL & NonSQL**:
+<p align="left">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+<br>
+
 - **Front Core**:
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-</p>
-
-<br>
-
-- **Database & SQL**:
-<p align="left">
-<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 <br>
@@ -99,7 +112,6 @@
 <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
