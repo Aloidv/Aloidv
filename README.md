@@ -9,16 +9,13 @@
 ## **About me**  <picture><img  align="left" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJkbHdzNnpnaG9qZzZvd2p0Y2hoN2Rmdm8yajdsMWx2Y2kxZmNwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVBR6cLvUjV9C/giphy.gif" width = 50px></picture> 
 
 <br>
-☑️ Self-taught developer for life.
+☑️ Self-taught developer.
 <br>
-☑️ I am looking for job offers as a developer or QA Tester.
+☑️ I am looking for job offers as a backend developer or QA Tester.
 <br>
 ☑️ Big fan of indie games.
 <br>
-☑️ Currently learning Android Development by Self.
-<br>
-☑️ As a hobby, I am learning all areas of video game development, and I am currently practicing as a 3D artist. → <a href="https://www.artstation.com/aloid" target="_blank">Portfolio</a>
-<br>
+☑️ Currently learning Kubernetes Deployment by Self.
 <br>
 <br>
 
