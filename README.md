@@ -11,11 +11,11 @@
 <br>
 ☑️ Self-taught developer.
 <br>
-☑️ I am looking for job offers as a backend developer or QA Tester.
+☑️ I am looking for job offers as a game developer or QA Tester.
 <br>
 ☑️ Big fan of indie games.
 <br>
-☑️ Currently learning Kubernetes Deployment by Self.
+☑️ Currently developing an indie game about how to manage your pachinko club.
 <br>
 <br>
 
@@ -26,12 +26,59 @@
 
 <p align="center">
 
-- **Languages**:
+- **Game Development**:
 
 <p align="left">
+<img src="https://img.shields.io/badge/-Blueprints-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal%20Engine%205-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+</p>
+<br>   
+<p align="left">
+<img src="https://img.shields.io/badge/Aseprite-%237D929E.svg?style=for-the-badge&logo=aseprite&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/Shaders-%23800080.svg?style=for-the-badge&logo=opengl&logoColor=white">
+</p>
+
+<br>   
+
+- **Mobile**:
+<p align="left">
+<img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+</p>
+
+<br>
+
+- **Version Control**:
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white">
+</p>
+
+<br>  
+
+- **QA Testing**:  
+<p align="left">
+<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-45C9A1.svg?style=for-the-badge&logo=mockito&logoColor=white">
+</p>
+
+<br>   
+
+- **Front Core**:
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 <br>   
@@ -49,57 +96,6 @@
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-</p>
-
-<br>   
-
-- **Microservices**:
-
-<p align="left">
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-</p>
-
-<br>  
-
-- **QA Testing**:  
-<p align="left">
-<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/Mockito-45C9A1.svg?style=for-the-badge&logo=mockito&logoColor=white">
-</p>
-
-<br>   
-
-- **Development Environment**:
-
-<p align="left">
-<img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Unreal%20Engine%205-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-</p>
-
-<br>   
-
-- **Database SQL & NonSQL**:
-<p align="left">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-
-<br>
-
-- **Front Core**:
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 <br>
